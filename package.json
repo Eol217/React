@@ -1,0 +1,22 @@
+{
+  "name": "react",
+  "version": "0.1.0",
+  "private": true,
+  "description": "проба реакта",
+  "main":	"index.html",
+  "author": "Дмитрий Харланов",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:htmlacademy-adaptive/202785-sedona.git"
+  },
+  "homepage": "#",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": "6.5"
+  },
+  "devDependencies": {
+    "express": "^4.14.0"
+  }
+}
